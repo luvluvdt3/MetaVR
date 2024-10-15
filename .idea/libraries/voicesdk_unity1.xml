@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="voicesdk_unity1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MetaVR/Library/PackageCache/com.meta.xr.sdk.voice@69.0.0/Plugins/voicesdk_unity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
